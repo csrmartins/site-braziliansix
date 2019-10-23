@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.div-header{
+
+}
+
+.div-header img{
+    width: 100%;
+}
+
+.header-overlay{
+    background-color: #1E1B33;
+}
+
